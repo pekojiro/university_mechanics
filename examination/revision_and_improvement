@@ -16,8 +16,6 @@ https://github.com/pekojiro/university_mechanics/commits/master/examination
 ・基礎力学
 ・基礎数学
 ・材料力学
-  　H23の問題2でカスチリアーノの定理の問題で∂M/∂M_A = 1　のところが怪しいです。実際にはR_a = -l/2*(M_b - M_A - M_0) となり、M_aの関数になるので、偏微分した時に0とするのは怪しいです。
-  　
 ・熱力学
 ・機械力学
 
@@ -26,5 +24,7 @@ https://github.com/pekojiro/university_mechanics/commits/master/examination
 ・基礎力学
 ・基礎数学
 ・材料力学
+　H23の問題2でカスチリアーノの定理の問題で∂M/∂M_A = 1　のところが怪しい。実際にはR_a = -l/2*(M_b - M_A - M_0) となり、M_aの関数になるので、偏微分した時に0とするのは怪しい。
+　たわみ曲線から答えを求めたところ答えは一致していましたが、上の疑問を解消できない場合はカスチリアーノの定理を控えたほうがいいと思う。
 ・熱力学
 ・機械力学
